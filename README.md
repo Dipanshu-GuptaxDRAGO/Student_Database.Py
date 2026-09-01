@@ -6,6 +6,7 @@
   <li>Extract_Data</li>
   <li>View Data</li>
   <li>Compare Data</li>
+  <li>And many more ...</li>
 </ul>
 <h2>Though functions are simple but convinient to understand and use.</h2>
 <h3> Mre updates to come....</h3>
